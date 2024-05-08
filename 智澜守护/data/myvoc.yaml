@@ -1,0 +1,8 @@
+train: "E:/yolov5/yolov5-master/VOCData/dataSet_path/train.txt"
+val: "E:/yolov5/yolov5-master/VOCData/dataSet_path/val.txt"
+
+# number of classes
+nc: 3
+
+# class names
+names: ["people","bio","plastic"]
